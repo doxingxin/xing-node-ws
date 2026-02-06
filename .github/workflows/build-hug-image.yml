@@ -1,6 +1,6 @@
 name: Build huggingface Image
 
-o:
+on:
   push:
     分支: [ hug ]
     paths:
